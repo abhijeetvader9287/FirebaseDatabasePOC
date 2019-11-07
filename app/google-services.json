@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "494506651212",
+    "firebase_url": "https://fir-databasepoc-85c32.firebaseio.com",
+    "project_id": "fir-databasepoc-85c32",
+    "storage_bucket": "fir-databasepoc-85c32.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494506651212:android:7736ce09fd72d377454ee9",
+        "android_client_info": {
+          "package_name": "com.abhijeet.firebasedatabasepoc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494506651212-7f43um9a88j0l87bi45f3s2j1e43n8f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACDBpKBN4XDpOKK5i5sl7JmLlK2GQ06LY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494506651212-7f43um9a88j0l87bi45f3s2j1e43n8f2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
